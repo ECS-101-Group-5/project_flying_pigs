@@ -1,1 +1,4 @@
-test
+Directions:
+1. Input text you wish to convert into textinput.txt by editing the file. (File name must be exact)
+2. Run Binarize.py
+3. Resulting binary sequence should print out in binaryoutput.txt. (File name must be exact)
